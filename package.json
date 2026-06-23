@@ -1,0 +1,20 @@
+{
+  "name": "dhasarathan-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Dhasarathan.S",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "keywords": ["portfolio", "vitepress"],
+  "author": "Dhasarathan.S",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.0.0"
+  }
+}
